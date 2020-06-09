@@ -130,7 +130,7 @@ x=0
 
 print("start...")
 
-speak("Hi FAIZ ,what can i do for you")
+speak("Hi Mahak ,what can i do for you")
 
 data=recordAudio()
 
